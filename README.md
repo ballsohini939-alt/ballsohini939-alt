@@ -192,13 +192,11 @@ My current Computer Science learning areas include:
 
 * Data Structures & Algorithms
 * Operating Systems
-* Database Management Systems
 * Computer Architecture
 * Python Programming
 * JavaScript
-* Data Analysis
 * Artificial Intelligence
-* Software Engineering
+
 
 ---
 
@@ -257,10 +255,10 @@ GitHub • Projects • Resume • Interviews
 
 I'm always interested in connecting with fellow students, developers, recruiters, and people who enjoy building technology.
 
-* 💼 **LinkedIn:** 
+* 💼 **LinkedIn:** https://www.linkedin.com/in/sohini-ball-698012381/
 * 📧 **Email:** ballsohini939@gmail.com
 * 🌐 **Portfolio:** Coming soon
-* 🐙 **GitHub:** `ballsohini939-alt`
+* 🐙 **GitHub:** ballsohini939-alt
 
 ---
 
@@ -271,7 +269,7 @@ Thanks for taking the time to explore my GitHub profile.
 I'm still learning, building, and improving every day — and this profile will grow along with me.
 
 **🚀 One project. One problem. One improvement at a time.**
-## Hi there 👋
+
 
 <!--
 **ballsohini939-alt/ballsohini939-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

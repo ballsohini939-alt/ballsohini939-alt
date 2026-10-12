@@ -1,287 +1,288 @@
-# 👋 Hi, I'm Sohini Ball
+<div align="center">
 
-### B.Tech CSE Student | Aspiring Software Engineer | AI & Data Science Enthusiast
+# 👋 Hey, I'm Sohini Ball
 
-I’m a **Computer Science & Engineering student at Asansol Engineering College**, currently building my foundation in **software development, problem solving, data analysis, and AI**.
+### Aspiring Software Engineer | CSE Student | Software Development & Data Science
 
-I enjoy learning by building practical projects, solving programming problems, and continuously improving my technical skills.
+**I turn ideas into projects and challenges into opportunities to learn.**
 
-My current goal is to become a strong **Software Engineer** by developing solid fundamentals in **DSA, programming, web development, databases, and data-driven applications**.
+Building practical applications, strengthening problem-solving skills, and exploring the intersection of software engineering, data, and AI.
+
+<br/>
+
+<a href="https://github.com/ballsohini939-alt">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/sohini-ball-698012381/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:ballsohini939@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ballsohini939-alt\&style=flat-square\&color=8A63D2)
+![Focus](https://img.shields.io/badge/Focus-Software_Engineering-8A63D2?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Always_Learning-2E8B57?style=flat-square)
+
+</div>
 
 ---
 
-## 👩‍💻 About Me
+## 💫 About Me
 
-* 🎓 B.Tech in **Computer Science & Engineering**
-* 🏫 **Asansol Engineering College**
-* 📊 CGPA: **8.53 / 10**
-* 💻 Interested in **Software Engineering**
-* 🤖 Exploring **AI & Data Science**
-* 🐍 Building projects with **Python**
-* 🌐 Developing web applications with **JavaScript & React**
-* 📈 Working with **Pandas and data analysis**
-* 🧠 Currently strengthening my **DSA & problem-solving skills**
-* 🚀 Interested in building practical projects that solve real problems
+I'm a **B.Tech Computer Science and Engineering student at Asansol Engineering College**, working toward becoming a skilled software engineer.
+
+I enjoy learning by building applications, experimenting with new technologies, solving programming problems, and improving my understanding of computer science fundamentals.
+
+My interests span software development, data analysis, and AI-assisted applications. I focus on turning what I learn into practical projects that demonstrate my technical skills.
+
+* 🎓 **Education:** B.Tech in Computer Science & Engineering
+* 📊 **CGPA:** 8.53/10
+* 💻 **Primary interests:** Software Engineering and Application Development
+* 🤖 **Exploring:** AI-assisted applications and Data Science
+* 🧠 **Currently strengthening:** Data Structures & Algorithms
+* 🎯 **Career goal:** Software development internships and opportunities to build real-world applications
+
+> **My philosophy:** Understand the fundamentals. Build something useful. Test it. Improve it.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### 💻 Programming Languages
+<div align="center">
 
-**Python • JavaScript • C**
+### Programming Languages
 
-### 🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=python,c,js&theme=dark" alt="Python, C and JavaScript"/>
 
-**HTML • CSS • JavaScript • React • Vite • Tailwind CSS**
+### Frontend Development
 
-### ⚙️ Backend Development
+<img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=dark" alt="HTML, CSS, React and Vite"/>
 
-**Node.js • Express.js • REST APIs**
+### Backend Development
 
-### 📊 Data & Analysis
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js and Express"/>
 
-**Pandas • CSV • Data Analysis • Data Visualization**
+### Data Analysis
 
-### 🗄️ Data & Storage
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/CSV-Data_Handling-477A59?style=for-the-badge" alt="CSV Data Handling"/>
+<img src="https://img.shields.io/badge/Data_Analysis-3776AB?style=for-the-badge" alt="Data Analysis"/>
 
-**Local Storage • CSV-based Data Storage**
+### Tools & Platforms
 
-### 🔧 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and VS Code"/>
 
-**Git • GitHub • VS Code**
+</div>
+
+**Core concepts:** Data Structures & Algorithms · Object-Oriented Programming fundamentals · File Handling · REST APIs · Problem Solving · Debugging
+
+*My skills are continuously developing as I build projects and practise new concepts.*
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Project Mentor
+These projects represent my hands-on learning across software development, data analysis, and programming fundamentals.
 
-A project-building assistant that transforms a project idea into a structured development blueprint and provides project-aware guidance.
+### 🤖 01. AI Project Mentor
 
-**Key Features:**
+**Turning project ideas into structured development plans.**
 
-* Project Blueprint Generator
-* AI Mentor interface
-* Project-specific guidance
-* Development roadmap
-* Project dashboard
-* Progress tracking
-* Local data persistence
+A project-planning application designed to help users break down an idea into a development blueprint, organize project phases, and access contextual guidance.
 
-**Built With:**
+**Highlights**
 
-`React` `Vite` `Tailwind CSS` `Node.js` `Express.js` `Framer Motion` `Recharts`
+* Project blueprint generation
+* Structured development roadmaps
+* Project dashboard and phase-based workflow
+* Contextual project guidance
+* Progress tracking and local data persistence
+
+**Tech stack**
+
+`React` `Vite` `JavaScript` `Node.js` `Express.js` `Framer Motion`
+
+**[↗ View Repository](https://github.com/ballsohini939-alt/ai-project-mentor)**
 
 ---
 
-### 📊 Student Performance Analyzer
+### 📊 02. Student Performance Analyzer
 
-A Python-based application designed to help students understand their academic performance and study habits through data analysis.
+**Making academic data easier to understand.**
 
-**Key Features:**
+A Python-based data analysis project designed to examine student performance and identify useful patterns in academic results and study habits.
 
-* Student information management
-* Marks and percentage calculation
-* Student ranking
-* Grade distribution
+**Highlights**
+
+* Marks and percentage calculations
+* Student ranking and grade distribution
 * Subject-wise performance analysis
 * Study-hour analysis
-* Performance categorization
 * Correlation analysis
 * PDF report generation
 
-**Built With:**
+**Tech stack**
 
 `Python` `Pandas` `CSV` `Matplotlib` `ReportLab`
 
----
+**[↗ View Repository](https://github.com/ballsohini939-alt/student-performance-analyzer)**
 
-### 💰 Student Expense Tracker
-
-A Python CLI application for tracking personal expenses and managing spending data.
-
-**Key Features:**
-
-* Add and record expenses
-* Store expense data
-* Track spending
-* Work with CSV-based data
-* Practice Python programming and file handling
-
-**Built With:**
-
-`Python` `CSV`
 
 ---
 
-## 🧠 Problem Solving & DSA
+### 💰 03. Student Expense Tracker
 
-I’m actively building my **Data Structures & Algorithms** foundation using Python.
+**A simple approach to tracking personal expenses.**
 
-Currently practicing:
+A command-line application for recording expenses and working with structured financial data.
 
-* Arrays & Lists
-* Strings
-* Searching
-* Sorting
+**Highlights**
+
+* Record individual expenses
+* Store and retrieve expense data
+* Organize spending information
+* Practise file handling and data management
+
+**Tech stack**
+
+`Python` `CSV` `File Handling`
+
+**[↗ View Repository](https://github.com/ballsohini939-alt/Student-Expense-Tracker)**
+
+
+---
+
+### 💻 04. C Programming Projects
+
+**Three practical applications built using C.**
+
+A collection of console-based programs demonstrating programming logic, data management, validation, and file handling.
+
+| Project                                                                                          | Key Concepts                                      |
+| :----------------------------------------------------------------------------------------------- | :------------------------------------------------ |
+| 🧮 [Matrix Operations](https://github.com/ballsohini939-alt/matrix-operations-c)                 | 2D arrays, functions, matrix calculations         |
+| 🎓 [Student Management System](https://github.com/ballsohini939-alt/student-management-system-c) | Structures, CRUD operations, file handling        |
+| 🏦 [Banking System](https://github.com/ballsohini939-alt/banking-system-c)                       | Transaction logic, validation, persistent storage |
+
+**Tech stack**
+
+`C` `GCC` `Git` `GitHub`
+
+**[↗ Explore the Complete Collection](https://github.com/ballsohini939-alt/c-programming-projects)**
+
+---
+
+## 🧠 Data Structures & Algorithms
+
+I'm actively strengthening my problem-solving ability through consistent DSA practice.
+
+**Areas I'm studying:**
+
+* Arrays and Strings
+* Searching and Sorting
 * Recursion
-* Stack & Queue
 * Linked Lists
-* Trees
-* Graphs
+* Stacks and Queues
+* Trees and Graphs
 * Algorithmic problem solving
-* Time & Space Complexity
+* Time and Space Complexity
 
-📌 My goal is to consistently solve problems rather than simply memorize solutions.
-
----
-
-## 🌱 Currently Learning
-
-```text
-DSA & Problem Solving
-        ↓
-Object-Oriented Programming
-        ↓
-SQL & Database Fundamentals
-        ↓
-Advanced JavaScript
-        ↓
-Machine Learning & Data Science
-        ↓
-Software Engineering Practices
-```
+My goal is to understand **why an algorithm works, when to use it, and how to implement it efficiently**.
 
 ---
 
-## 🏗️ My Learning Philosophy
-
-> **Learn by building. Improve by solving. Grow by sharing.**
-
-I believe the best way to learn technology is to combine:
-
-**Learning → Building → Breaking → Debugging → Improving**
-
-Instead of only following tutorials, I try to turn what I learn into working projects and experiments.
-
----
-
-## 🏆 Experience & Activities
+## 🏆 Hackathons & Practical Experience
 
 ### 💡 Impact Forge Summer 2026
 
-Participated as a **solo participant** and developed **AI Project Mentor**, a project designed to help users move from an idea to a structured project-building plan.
+Participated as a solo builder and developed **AI Project Mentor**, an application focused on helping users turn project ideas into structured development plans.
 
-Through this experience, I practiced:
+**What I practised:**
 
-* React development
-* API-based application architecture
-* Backend development
-* UI/UX implementation
-* Project planning
-* Debugging
-* Git & GitHub workflow
-* Building under a time constraint
+* Building a React-based application
+* Organizing frontend and backend components
+* Implementing application workflows
+* Designing user interfaces
+* Debugging under time constraints
+* Managing code using Git and GitHub
 
----
-
-## 📚 Academic Focus
-
-My current Computer Science learning areas include:
-
-* Data Structures & Algorithms
-* Operating Systems
-* Computer Architecture
-* Python Programming
-* JavaScript
-* Artificial Intelligence
-
+This experience helped me apply classroom concepts to a practical development project.
 
 ---
 
-## 🎯 Current Goals
+## 📚 Currently Learning
 
-### Short Term
+<div align="center">
 
-* 💻 Strengthen Python & JavaScript
-* 🧠 Become consistent with DSA
-* 🗄️ Learn SQL and database fundamentals
-* 🚀 Build stronger real-world projects
-* 📈 Improve GitHub portfolio
-* 📝 Prepare for software engineering internships
+| Area                     | Focus                                           |
+| :----------------------- | :---------------------------------------------- |
+| **Programming**          | Python, C and JavaScript                        |
+| **Problem Solving**      | DSA, algorithms and complexity analysis         |
+| **Web Development**      | React, APIs and backend fundamentals            |
+| **Databases**            | SQL and database fundamentals                   |
+| **Data Science**         | Data analysis and introductory machine learning |
+| **Software Engineering** | Testing, debugging and maintainable code        |
 
-### Long Term
+</div>
 
-* 👩‍💻 Become a strong Software Engineer
-* 🤖 Build expertise in AI & Data Science
-* 🏢 Gain experience through internships and real-world projects
-* 🌍 Contribute to meaningful software products
-* 📚 Continue learning and sharing knowledge
+---
+
+## 🎯 Career Direction
+
+I'm working toward software development internship opportunities and long-term growth as a software engineer.
+
+My current priorities are:
+
+* **Strong fundamentals:** Programming, DSA and computer science concepts.
+* **Practical development:** Building useful, well-documented applications.
+* **Problem solving:** Improving logical thinking and debugging.
+* **Professional growth:** Maintaining a credible GitHub portfolio and preparing for technical interviews.
+
+I'm especially interested in opportunities where I can learn from experienced developers, contribute to real projects, and steadily improve my engineering skills.
 
 ---
 
 ## 📈 My GitHub Journey
 
-This profile represents my journey from **learning programming fundamentals to building practical software projects**.
+I use GitHub to document my learning, maintain projects, and share practical work.
 
-I’m continuously working on:
+<div align="center">
 
-`Learn → Practice → Build → Share → Improve`
+<a href="https://github.com/ballsohini939-alt">
+  <img src="https://github-readme-stats.vercel.app/api?username=ballsohini939-alt&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
+</a>
 
-More projects, experiments, and problem-solving work will be added as I progress.
+<a href="https://github.com/ballsohini939-alt">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ballsohini939-alt&layout=compact&hide_border=true&theme=tokyonight" alt="Most used programming languages" />
+</a>
 
----
+</div>
 
-## 🔭 What I'm Working Toward
-
-I’m currently preparing myself for **software engineering internship opportunities** by focusing on four areas:
-
-**Strong Fundamentals**
-Programming • DSA • CS Concepts
-
-**Practical Development**
-Web Applications • APIs • Data-driven Projects
-
-**Problem Solving**
-Algorithms • Debugging • Logical Thinking
-
-**Professional Growth**
-GitHub • Projects • Resume • Interviews
+*Statistics are generated by an external service and may not always be available or reflect every private repository.*
 
 ---
 
-## 📫 Let's Connect
+## 🤝 Let's Connect
 
-I'm always interested in connecting with fellow students, developers, recruiters, and people who enjoy building technology.
+I'm happy to connect with fellow students, developers, recruiters, and people who enjoy building technology.
 
-* 💼 **LinkedIn:** https://www.linkedin.com/in/sohini-ball-698012381/
-* 📧 **Email:** ballsohini939@gmail.com
-* 🌐 **Portfolio:** Coming soon
-* 🐙 **GitHub:** ballsohini939-alt
+* 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sohini-ball-698012381/)
+* 📧 **Email:** [ballsohini939@gmail.com](mailto:ballsohini939@gmail.com)
+* 🐙 **GitHub:** [@ballsohini939-alt](https://github.com/ballsohini939-alt)
+
+I'm particularly interested in software development opportunities, collaborative projects, and learning experiences that help me grow as an engineer.
 
 ---
 
-## ⭐ Thanks for Visiting!
+<div align="center">
 
-Thanks for taking the time to explore my GitHub profile.
+### ✨ Learn. Build. Solve. Improve.
 
-I'm still learning, building, and improving every day — and this profile will grow along with me.
+**Every project is an opportunity to become a better engineer.**
 
-**🚀 One project. One problem. One improvement at a time.**
+*Thanks for visiting my profile!*
 
-
-<!--
-**ballsohini939-alt/ballsohini939-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>

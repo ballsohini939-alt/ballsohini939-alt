@@ -22,7 +22,7 @@ Building practical applications, strengthening problem-solving skills, and explo
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ballsohini939-alt\&style=flat-square\&color=8A63D2)
+![Profile Views](https://komarev.com/ghpvc/?username=ballsohini939-alt&style=flat-square&color=8A63D2)
 ![Focus](https://img.shields.io/badge/Focus-Software_Engineering-8A63D2?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Always_Learning-2E8B57?style=flat-square)
 

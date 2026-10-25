@@ -83,6 +83,32 @@ I believe the best way to learn technology is to apply it: understand a concept,
 
 <div align="center">
 
+### 🎓 CampusCompanion AI
+
+<a href="https://github.com/ballsohini939-alt/campuscompanion-ai">
+  <img src="https://img.shields.io/badge/Explore%20Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore CampusCompanion AI"/>
+</a>
+<a href="https://campuscompanion-ai.vercel.app/">
+  <img src="https://img.shields.io/badge/Live%20Demo-181717?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+</a>
+
+**A unified workspace for student learning, opportunities, and career preparation.**
+
+A student-focused web application that brings scholarship discovery, study planning, and career guidance together in a modern, interactive dashboard.
+
+**Key features**
+* Student guidance assistant with rule-based responses
+* Scholarship and educational opportunity discovery
+* Searchable listings and opportunity filtering
+* Save opportunities using browser local storage
+* Study planning and task organization
+* Career preparation guidance
+* Responsive dashboard with a modern interface
+
+`React` `Vite` `JavaScript` `CSS` `Local Storage` `Vercel`
+
+---
+
 ### 🤖 AI Project Mentor
 
 <a href="https://github.com/ballsohini939-alt/ai-project-mentor">

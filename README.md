@@ -212,6 +212,28 @@ I'm strengthening my ability to solve programming problems by understanding the 
 
 ## 🏆 Hackathons & Practical Experience
 
+### 🚀 Build, Ship, Shape: Amazon Developer Hackathon 2026
+
+Participated in the **Build, Ship, Shape: Amazon Developer Hackathon** and developed **CampusCompanion AI**, a student-support web application designed to bring educational opportunity discovery, study planning, and career preparation together in one workspace.
+
+**What I practised**
+
+* Building a React-based web application
+* Designing a responsive and interactive user interface
+* Implementing student-focused features and application workflows
+* Developing search and filtering functionality for educational opportunities
+* Using browser local storage to save user data
+* Managing source code and project development with Git and GitHub
+
+🔗 **[Explore CampusCompanion AI](https://github.com/ballsohini939-alt/campuscompanion-ai)**
+
+🌐 **[Visit Live Demo](https://campuscompanion-ai.vercel.app/)**
+
+🏆 **[View Amazon Developer Hackathon](https://amazonappdev2026.devpost.com/)**
+
+---
+
+
 ### 💡 Impact Forge Summer 2026
 
 Participated as a solo builder and developed **AI Project Mentor**, a project-planning application.

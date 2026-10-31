@@ -75,22 +75,27 @@
 ---
 
 
+
 ## 👩‍💻 About Me
 
-I'm a **Computer Science and Engineering student at Asansol Engineering College**, passionate about building practical applications and developing strong software engineering fundamentals.
+I enjoy turning ideas into practical software solutions and exploring how technology can solve everyday problems.
 
-I believe the best way to learn technology is to apply it: understand a concept, build something useful, test it, and keep improving.
+My approach to development is simple: **learn by building**. I like experimenting with new tools, understanding how things work behind the scenes, and improving my projects through testing and iteration.
 
-* 🎓 **Education:** B.Tech in Computer Science & Engineering
-* 📊 **CGPA:** 8.53/10
-* 💻 **Primary interest:** Software Engineering and Application Development
-* 🤖 **Exploring:** AI-assisted applications and Data Science
-* 🧠 **Currently strengthening:** Data Structures, Algorithms, and problem-solving
-* 🎯 **Goal:** Contribute to meaningful projects and grow through software development internships
+### 🔍 What Drives Me
 
-> *Understand the fundamentals. Build something useful. Test it. Improve it.*
+- 🛠️ Creating useful applications with clean, maintainable code.
+- 💡 Exploring how AI can make software more helpful and accessible.
+- 📊 Understanding data and turning it into meaningful insights.
+- 🧩 Breaking complex problems into smaller, manageable solutions.
+- 🌱 Learning from challenges, feedback, and real-world development experiences.
+
+### 💭 My Developer Philosophy
+
+> Don't just learn a technology. Understand it, build with it, and use it to solve a real problem.
 
 ---
+
 
 ## 🛠️ Tech Stack
 

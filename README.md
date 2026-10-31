@@ -1,30 +1,79 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B0B12,50:30205A,100:8B5CF6&text=Sohini%20Ball&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%20%7C%20Data%20Science&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Sohini Ball — Developer Profile Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:17132B,50:35205C,100:123D43&text=SOHINI%20BALL&fontSize=42&fontColor=FFFFFF&fontAlignY=48&desc=SOFTWARE%20ENGINEERING%20%7C%20AI%20%7C%20DATA%20SCIENCE&descSize=12&descAlignY=75" width="100%" />
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;B.Tech+CSE+Student;Building+Practical+Applications;Exploring+AI+%26+Data+Science;Learn.+Build.+Solve.+Improve." alt="Animated introduction" />
-</a>
+  <h3>Building ideas into useful software.</h3>
 
-<br/>
+  <p>
+    B.Tech CSE Student · Aspiring Software Engineer
+  </p>
 
-<a href="https://github.com/ballsohini939-alt">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/sohini-ball-698012381/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:ballsohini939@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+  <p>
+    <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/REACT-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/AI%20%26%20DATA%20SCIENCE-8B5CF6?style=flat-square" />
+  </p>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=ballsohini939-alt&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views"/>
+  <p>
+    <img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-14B8A6?style=for-the-badge&labelColor=161B22" />
+    <img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-8B5CF6?style=for-the-badge&labelColor=161B22" />
+  </p>
 
 </div>
 
 ---
+
+<div align="center">
+
+  <h3>⌘ DEVELOPER_PROFILE.exe</h3>
+  <sub>DEVELOPER CONFIGURATION · SYSTEM INFORMATION</sub>
+
+  <table width="100%">
+    <tr>
+      <td align="center" width="33%">
+        <b>01 · IDENTITY</b><br/><br/>
+        Sohini Ball
+      </td>
+      <td align="center" width="33%">
+        <b>02 · EDUCATION</b><br/><br/>
+        B.Tech CSE
+      </td>
+      <td align="center" width="33%">
+        <b>03 · ACADEMICS</b><br/><br/>
+        8.53 / 10
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>04 · LANGUAGES</b><br/><br/>
+        Python · C · JavaScript
+      </td>
+      <td align="center">
+        <b>05 · FRONTEND</b><br/><br/>
+        HTML · CSS · React · Vite
+      </td>
+      <td align="center">
+        <b>06 · BACKEND</b><br/><br/>
+        Node.js · Express
+      </td>
+    </tr>
+  </table>
+
+  <p><b>▸ CURRENT MISSION</b></p>
+  <p>
+    Building practical projects · Exploring AI & Data Science<br/>
+    Improving problem-solving · Preparing for internships
+  </p>
+
+  <p><sub>● SYSTEM STATUS: LEARNING · BUILDING · IMPROVING</sub></p>
+
+</div>
+
+---
+
 
 ## 👩‍💻 About Me
 
@@ -79,217 +128,436 @@ I believe the best way to learn technology is to apply it: understand a concept,
 
 ---
 
+
 ## 🚀 Featured Projects
 
 <div align="center">
+  <p><sub>SELECTED BUILDS · PROJECTS · PRACTICAL APPLICATIONS</sub></p>
+</div>
 
-### 🎓 CampusCompanion AI
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/ballsohini939-alt/campuscompanion-ai">
-  <img src="https://img.shields.io/badge/Explore%20Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore CampusCompanion AI"/>
-</a>
-<a href="https://campuscompanion-ai.vercel.app/">
-  <img src="https://img.shields.io/badge/Live%20Demo-181717?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-</a>
+<h3>🎓 CampusCompanion AI</h3>
 
-**A unified workspace for student learning, opportunities, and career preparation.**
+<b>A unified workspace for student learning, opportunities, and career preparation.</b>
 
-A student-focused web application that brings scholarship discovery, study planning, and career guidance together in a modern, interactive dashboard.
+A student-focused dashboard combining scholarship discovery, study planning, and career guidance.
 
-**Key features**
-* Student guidance assistant with rule-based responses
-* Scholarship and educational opportunity discovery
-* Searchable listings and opportunity filtering
-* Save opportunities using browser local storage
-* Study planning and task organization
-* Career preparation guidance
-* Responsive dashboard with a modern interface
+<b>Key Features</b>
+<ul>
+<li>Student guidance assistant</li>
+<li>Scholarship discovery and filtering</li>
+<li>Save opportunities using local storage</li>
+<li>Study planning and task organization</li>
+<li>Career preparation guidance</li>
+</ul>
 
-`React` `Vite` `JavaScript` `CSS` `Local Storage` `Vercel`
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
 
----
+<a href="https://github.com/ballsohini939-alt/campuscompanion-ai">↗ View Source Code</a>
+&nbsp;·&nbsp;
+<a href="https://campuscompanion-ai.vercel.app/">↗ Live Demo</a>
 
-### 🤖 AI Project Mentor
+</td>
+<td width="50%" valign="top">
 
-<a href="https://github.com/ballsohini939-alt/ai-project-mentor">
-  <img src="https://img.shields.io/badge/Explore%20Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore AI Project Mentor"/>
-</a>
+<h3>🤖 AI Project Mentor</h3>
 
-**Turn project ideas into structured development plans.**
+<b>Turn project ideas into structured development plans.</b>
 
-A project-planning application that helps users organize ideas into development blueprints, break work into phases, and access contextual project guidance.
+A project-planning application that helps users organize ideas into development blueprints and structured workflows.
 
-**Key features**
+<b>Key Features</b>
+<ul>
+<li>Project blueprint generation</li>
+<li>Structured development roadmaps</li>
+<li>Phase-based project workflow</li>
+<li>Contextual project guidance</li>
+<li>Progress tracking and local persistence</li>
+</ul>
 
-* Project blueprint generation
-* Structured development roadmaps
-* Dashboard and phase-based workflow
-* Contextual project guidance
-* Local data persistence and progress tracking
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+</p>
 
-`React` `Vite` `JavaScript` `Node.js` `Express.js` `Framer Motion`
+<a href="https://github.com/ballsohini939-alt/ai-project-mentor">↗ View Source Code</a>
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 📊 Student Performance Analyzer
+<h3>📊 Student Performance Analyzer</h3>
 
-<a href="https://github.com/ballsohini939-alt/student-performance-analyzer">
-  <img src="https://img.shields.io/badge/Explore%20Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore Student Performance Analyzer"/>
-</a>
+<b>Turn academic records into meaningful insights.</b>
 
-**Turn academic records into meaningful insights.**
+A Python-based data analysis project for examining student performance and identifying patterns in academic results.
 
-A Python-based data analysis project for examining student performance, identifying patterns, and understanding the relationship between study habits and academic results.
+<b>Key Features</b>
+<ul>
+<li>Marks, percentages, and grade calculations</li>
+<li>Student ranking and grade distribution</li>
+<li>Subject-wise performance analysis</li>
+<li>Study-hour and correlation analysis</li>
+<li>PDF report generation</li>
+</ul>
 
-**Key features**
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+</p>
 
-* Marks, percentages, and grade calculations
-* Student ranking and grade distribution
-* Subject-wise performance analysis
-* Study-hour and correlation analysis
-* PDF report generation
+<a href="https://github.com/ballsohini939-alt/student-performance-analyzer">↗ View Source Code</a>
 
-`Python` `Pandas` `CSV` `Matplotlib` `ReportLab`
+</td>
+<td width="50%" valign="top">
 
----
+<h3>💰 Student Expense Tracker</h3>
 
-### 💰 Student Expense Tracker
-
-<a href="https://github.com/ballsohini939-alt/Student-Expense-Tracker">
-  <img src="https://img.shields.io/badge/Explore%20Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore Student Expense Tracker"/>
-</a>
-
-**A simple way to organize personal spending.**
+<b>A simple way to organize personal spending.</b>
 
 A command-line application for recording expenses and managing structured financial data.
 
-**Key features**
+<b>Key Features</b>
+<ul>
+<li>Record individual expenses</li>
+<li>Store and retrieve expense data</li>
+<li>Organize spending information</li>
+<li>Practise file handling and data management</li>
+</ul>
 
-* Record individual expenses
-* Store and retrieve expense data
-* Organize spending information
-* Practise file handling and data management
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSV%20Data-477A59?style=flat-square"/>
+<img src="https://img.shields.io/badge/File%20Handling-8B5CF6?style=flat-square"/>
+</p>
 
-`Python` `CSV` `File Handling`
+<a href="https://github.com/ballsohini939-alt/Student-Expense-Tracker">↗ View Source Code</a>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <p><sub>MORE PROJECTS · MORE EXPERIMENTS · ALWAYS BUILDING</sub></p>
+</div>
+
+---
+
+
+## 💻 C Programming Portfolio
+
+<div align="center">
+  <sub>LOW-LEVEL PROGRAMMING · LOGIC · DATA MANAGEMENT</sub>
+  <p>Console-based applications built while strengthening C programming fundamentals.</p>
+</div>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
+
+<h3>🧮 Matrix Operations</h3>
+
+<p>Matrix calculations using structured programming and 2D arrays.</p>
+
+<p>
+<img src="https://img.shields.io/badge/2D%20Arrays-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Functions-477A59?style=flat-square"/>
+</p>
+
+<a href="https://github.com/ballsohini939-alt/matrix-operations-c">
+  <b>↗ View Repository</b>
+</a>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<h3>🎓 Student Management</h3>
+
+<p>Student record management using structures and file handling.</p>
+
+<p>
+<img src="https://img.shields.io/badge/Structures-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/CRUD-477A59?style=flat-square"/>
+</p>
+
+<a href="https://github.com/ballsohini939-alt/student-management-system-c">
+  <b>↗ View Repository</b>
+</a>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<h3>🏦 Banking System</h3>
+
+<p>A console-based banking application with transaction logic.</p>
+
+<p>
+<img src="https://img.shields.io/badge/Logic-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/File%20Handling-477A59?style=flat-square"/>
+</p>
+
+<a href="https://github.com/ballsohini939-alt/banking-system-c">
+  <b>↗ View Repository</b>
+</a>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+  <p><b>TECHNOLOGY</b></p>
+  <img src="https://skillicons.dev/icons?i=c,git,github&theme=dark"/>
+
+  <p>
+    <a href="https://github.com/ballsohini939-alt/c-programming-projects">
+      <img src="https://img.shields.io/badge/EXPLORE%20ALL%20C%20PROJECTS-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </p>
+
+  <sub>LEARN THE LOGIC · WRITE THE CODE · SOLVE THE PROBLEM</sub>
 
 </div>
 
 ---
 
-## 💻 C Programming Portfolio
 
-A collection of console-based applications demonstrating programming logic, data management, validation, and file handling.
-
-| Project                      | Concepts                                          | Repository                                                                       |
-| ---------------------------- | ------------------------------------------------- | -------------------------------------------------------------------------------- |
-| 🧮 Matrix Operations         | 2D arrays, functions, matrix calculations         | [View Project](https://github.com/ballsohini939-alt/matrix-operations-c)         |
-| 🎓 Student Management System | Structures, CRUD operations, file handling        | [View Project](https://github.com/ballsohini939-alt/student-management-system-c) |
-| 🏦 Banking System            | Transaction logic, validation, persistent storage | [View Project](https://github.com/ballsohini939-alt/banking-system-c)            |
-
-**Technologies:** `C` `GCC` `Git` `GitHub`
-
-📂 **[Explore the Complete C Programming Collection](https://github.com/ballsohini939-alt/c-programming-projects)**
-
----
 
 ## 🧠 Data Structures & Algorithms
 
-I'm strengthening my ability to solve programming problems by understanding the logic behind algorithms, not just memorizing implementations.
+<div align="center">
 
-| Topic               | Learning Focus                         |
-| ------------------- | -------------------------------------- |
-| Arrays & Strings    | Traversal, searching, and manipulation |
-| Searching & Sorting | Algorithm selection and complexity     |
-| Recursion           | Base cases and recursive reasoning     |
-| Linked Lists        | Dynamic data structures                |
-| Stacks & Queues     | Operations and applications            |
-| Trees & Graphs      | Traversal and fundamental algorithms   |
-| Complexity Analysis | Time and space complexity              |
+  <p><sub>PROBLEM SOLVING · LOGICAL THINKING · ALGORITHM FUNDAMENTALS</sub></p>
 
-**My goal:** Understand why an algorithm works, when to use it, and how to implement it efficiently.
+  <h3>01 / CORE FOUNDATIONS</h3>
+
+  <img src="https://img.shields.io/badge/Arrays%20%26%20Strings-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Searching-477A59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sorting-3776AB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Recursion-9333EA?style=for-the-badge" />
+
+  <br/><br/>
+
+  <h3>02 / DATA STRUCTURES</h3>
+
+  <img src="https://img.shields.io/badge/Linked%20Lists-0D9488?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stacks-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Queues-3776AB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Trees-477A59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Graphs-9333EA?style=for-the-badge" />
+
+  <br/><br/>
+
+  <h3>03 / ALGORITHM ANALYSIS</h3>
+
+  <img src="https://img.shields.io/badge/Time%20Complexity-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Space%20Complexity-0D9488?style=flat-square" />
+  <img src="https://img.shields.io/badge/Traversal-3776AB?style=flat-square" />
+
+  <br/><br/>
+
+  <h3>04 / MY LEARNING APPROACH</h3>
+
+  <p>
+    <b>UNDERSTAND</b>
+    &nbsp; → &nbsp;
+    <b>IMPLEMENT</b>
+    &nbsp; → &nbsp;
+    <b>PRACTICE</b>
+    &nbsp; → &nbsp;
+    <b>IMPROVE</b>
+  </p>
+
+  <p><i>Learning to understand why algorithms work, when to use them, and how to implement them efficiently.</i></p>
+
+</div>
 
 ---
+
+
 
 ## 🏆 Hackathons & Practical Experience
 
-### 🚀 Build, Ship, Shape: Amazon Developer Hackathon 2026
+<div align="center">
+  <sub>HACKATHONS · BUILDING · EXPERIMENTING · LEARNING</sub>
+  <p>Applying software development skills to practical challenges and project ideas.</p>
+</div>
 
-Participated in the **Build, Ship, Shape: Amazon Developer Hackathon** and developed **CampusCompanion AI**, a student-support web application designed to bring educational opportunity discovery, study planning, and career preparation together in one workspace.
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-**What I practised**
+<h3>🚀 Amazon Developer Hackathon 2026</h3>
 
-* Building a React-based web application
-* Designing a responsive and interactive user interface
-* Implementing student-focused features and application workflows
-* Developing search and filtering functionality for educational opportunities
-* Using browser local storage to save user data
-* Managing source code and project development with Git and GitHub
+<b>Project: CampusCompanion AI</b>
 
-🔗 **[Explore CampusCompanion AI](https://github.com/ballsohini939-alt/campuscompanion-ai)**
+Developed a student-support web application that combines educational opportunity discovery, study planning, and career preparation in one workspace.
 
-🌐 **[Visit Live Demo](https://campuscompanion-ai.vercel.app/)**
+<b>What I worked on</b>
 
-🏆 **[View Amazon Developer Hackathon](https://amazonappdev2026.devpost.com/)**
+- React-based application development
+- Responsive user interface design
+- Scholarship search and filtering
+- Browser local storage
+- Student-focused application workflows
+- Git and GitHub project management
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+</p>
+
+<a href="https://github.com/ballsohini939-alt/campuscompanion-ai">↗ Project Repository</a>
+<br/>
+<a href="https://campuscompanion-ai.vercel.app/">↗ Live Demo</a>
+<br/>
+<a href="https://amazonappdev2026.devpost.com/">↗ Hackathon Page</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>💡 Impact Forge Summer 2026</h3>
+
+<b>Project: AI Project Mentor</b>
+
+Participated as a solo builder and developed a project-planning application designed to turn ideas into structured development plans.
+
+<b>What I worked on</b>
+
+- React application development
+- Frontend and backend integration
+- Project blueprint workflows
+- Structured development roadmaps
+- Contextual project guidance
+- Debugging and time management
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+</p>
+
+<a href="https://github.com/ballsohini939-alt/ai-project-mentor">↗ Project Repository</a>
+<br/>
+<a href="https://devpost.com/software/ai-project-mentor">↗ Project Showcase</a>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <p><sub>IDEA → DEVELOPMENT → TESTING → IMPROVEMENT</sub></p>
+</div>
 
 ---
 
-
-### 💡 Impact Forge Summer 2026
-
-Participated as a solo builder and developed **AI Project Mentor**, a project-planning application.
-
-**What I practised**
-
-* Building a React-based application
-* Organizing frontend and backend components
-* Implementing application workflows
-* Designing user interfaces
-* Debugging under time constraints
-* Managing source code with Git and GitHub
-
-🔗 **[Explore AI Project Mentor](https://github.com/ballsohini939-alt/ai-project-mentor)**
-
----
 
 ## 📚 Currently Learning
 
 <div align="center">
 
-| Area                 | Focus                                           |
-| -------------------- | ----------------------------------------------- |
-| Programming          | Python, C, JavaScript                           |
-| Problem Solving      | DSA, algorithms, complexity analysis            |
-| Web Development      | React, REST APIs, backend fundamentals          |
-| Databases            | SQL and database fundamentals                   |
-| Data Science         | Data analysis and introductory machine learning |
-| Software Engineering | Testing, debugging, maintainable code           |
+  <p><sub>CONTINUOUS LEARNING · SKILL DEVELOPMENT · ENGINEERING GROWTH</sub></p>
+
+  <table width="100%">
+    <tr>
+      <td align="center" width="50%">
+        <h3>🐍 Programming</h3>
+        Python · C · JavaScript
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=python,c,js&theme=dark"/>
+      </td>
+      <td align="center" width="50%">
+        <h3>🧠 Problem Solving</h3>
+        Data Structures · Algorithms · Complexity Analysis
+        <br/><br/>
+        <img src="https://img.shields.io/badge/DSA-8B5CF6?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Problem%20Solving-0D9488?style=for-the-badge"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <h3>🌐 Web Development</h3>
+        React · REST APIs · Backend Fundamentals
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark"/>
+      </td>
+      <td align="center">
+        <h3>📊 Data & AI</h3>
+        Data Analysis · Introductory Machine Learning
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+        <img src="https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <h3>🗄️ Software Engineering Foundations</h3>
+        SQL · Database Fundamentals · Testing · Debugging · Maintainable Code
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <p><b>MY LEARNING CYCLE</b></p>
+  <p>
+    <img src="https://img.shields.io/badge/LEARN-8B5CF6?style=for-the-badge"/>
+    →
+    <img src="https://img.shields.io/badge/BUILD-0D9488?style=for-the-badge"/>
+    →
+    <img src="https://img.shields.io/badge/TEST-3776AB?style=for-the-badge"/>
+    →
+    <img src="https://img.shields.io/badge/IMPROVE-EA580C?style=for-the-badge"/>
+  </p>
+
+  <i>Learning by building, experimenting, and improving one project at a time.</i>
 
 </div>
 
 ---
+
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
+  <p><sub>DEVELOPMENT ACTIVITY · REPOSITORY INSIGHTS · CONSISTENCY</sub></p>
+
+  
 <a href="https://github.com/ballsohini939-alt">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ballsohini939-alt&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E6EDF3&rank_icon=github" alt="GitHub statistics"/>
+  <img height="175" src="https://github-stats-extended.vercel.app/api?username=ballsohini939-alt&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=14B8A6&text_color=E6EDF3&rank_icon=github" alt="GitHub profile statistics"/>
 </a>
+
 <a href="https://github.com/ballsohini939-alt">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ballsohini939-alt&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E6EDF3" alt="Most used programming languages"/>
+ <img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ballsohini939-alt&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E6EDF3" alt="Most used programming languages"/>
+ 
 </a>
 
-<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=ballsohini939-alt&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=E6EDF3&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
+  <br/><br/>
 
-<br/>
+  <img width="85%" src="https://streak-stats.demolab.com?user=ballsohini939-alt&hide_border=true&background=0D1117&ring=A78BFA&fire=14B8A6&currStreakLabel=A78BFA&sideLabels=E6EDF3&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
 
-*Statistics are generated by external services. They may be temporarily unavailable, and language percentages reflect the repositories those services can access.*
+  <br/><br/>
+
+  <sub>METRICS GENERATED FROM PUBLIC GITHUB ACTIVITY · UPDATED BY EXTERNAL SERVICES</sub>
 
 </div>
 
 ---
+
 
 ## 🐍 Contribution Activity
 

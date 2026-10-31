@@ -559,31 +559,80 @@ Participated as a solo builder and developed a project-planning application desi
 ---
 
 
+
 ## 🐍 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ballsohini939-alt/ballsohini939-alt/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%"/>
+  <p><sub>CONSISTENCY · PROGRESS · EVERY CONTRIBUTION COUNTS</sub></p>
+
+  <img
+    src="https://raw.githubusercontent.com/ballsohini939-alt/ballsohini939-alt/output/github-contribution-grid-snake-dark.svg"
+    alt="Animated GitHub contribution snake"
+    width="100%"
+  />
 
 </div>
 
-*This animation will appear after the contribution-snake workflow has been configured and generated successfully.*
-
 ---
+
+
 
 ## 🎯 Career Goals
 
-I'm working toward software development internships and long-term growth as a software engineer.
+<div align="center">
 
-My priorities are:
+  <p><sub>MY ROADMAP · LEARNING WITH PURPOSE · BUILDING FOR IMPACT</sub></p>
 
-* **Strong fundamentals:** Improve programming, DSA, and computer science knowledge.
-* **Practical development:** Build useful, well-documented applications.
-* **Problem solving:** Strengthen logical thinking and debugging skills.
-* **Professional growth:** Maintain a credible project portfolio and prepare for technical interviews.
-* **Continuous learning:** Explore technologies that help me build better software.
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>💻 Strong Fundamentals</h3>
+        Programming, DSA, algorithms and core computer science concepts.
+      </td>
+      <td align="center" width="50%">
+        <h3>🚀 Practical Development</h3>
+        Building useful, scalable and well-documented applications.
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🧠 Problem Solving</h3>
+        Improving logical thinking, debugging and analytical skills.
+      </td>
+      <td align="center" width="50%">
+        <h3>📈 Professional Growth</h3>
+        Preparing for technical interviews and building a credible portfolio.
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <h3>✨ Continuous Learning</h3>
+        Exploring Software Engineering, Artificial Intelligence and Data Science.
+      </td>
+    </tr>
+  </table>
 
-I'm particularly interested in opportunities where I can learn from experienced developers, collaborate with others, and contribute to real-world applications.
+  <br/>
+
+  <h3>🌟 My Career Aspiration</h3>
+
+  <p>
+    To become a skilled Software Engineer, contribute to meaningful
+    real-world projects, and grow through collaboration and mentorship.
+  </p>
+
+  <br/>
+
+  <strong>OPEN TO INTERNSHIP OPPORTUNITIES</strong>
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/Software_Engineering-161B22?style=for-the-badge&logo=github&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-161B22?style=for-the-badge&logo=probot&logoColor=14B8A6"/>
+  <img src="https://img.shields.io/badge/Data_Science-161B22?style=for-the-badge&logo=python&logoColor=A78BFA"/>
+
+</div>
 
 ---
 

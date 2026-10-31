@@ -134,6 +134,7 @@ My approach to development is simple: **learn by building**. I like experimentin
 ---
 
 
+
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -171,6 +172,7 @@ A student-focused dashboard combining scholarship discovery, study planning, and
 <a href="https://campuscompanion-ai.vercel.app/">↗ Live Demo</a>
 
 </td>
+
 <td width="50%" valign="top">
 
 <h3>🤖 AI Project Mentor</h3>
@@ -212,15 +214,15 @@ A project-planning application that helps users organize ideas into development 
 
 <strong>Explore student performance through Python-based data analysis.</strong>
 
-A project focused on data processing, analysis, and meaningful academic insights.
+A data analytics dashboard for student performance tracking, visualization, student comparisons, and PDF reporting.
 
-<strong>Key Areas</strong>
+<strong>Key Features</strong>
 <ul>
-<li>CSV data handling</li>
+<li>CSV data processing</li>
 <li>Data cleaning and analysis</li>
-<li>Performance summaries</li>
-<li>Data visualization</li>
-<li>Report generation</li>
+<li>Student performance tracking</li>
+<li>Data visualization and comparisons</li>
+<li>PDF report generation</li>
 </ul>
 
 <img src="https://img.shields.io/badge/Python-161B22?style=flat&logo=python&logoColor=3776AB"/>
@@ -232,31 +234,33 @@ A project focused on data processing, analysis, and meaningful academic insights
 <a href="https://github.com/ballsohini939-alt/student-performance-analyzer">↗ View Source Code</a>
 
 </td>
+
 <td width="50%" valign="top">
 
-<h3>💰 Student Expense Tracker</h3>
+<h3>💰 SpendWise AI</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=900&color=14B8A6&width=300&lines=Track+spending+smarter.;Build+better+money+habits." alt="Animated Student Expense Tracker tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=900&color=14B8A6&width=300&lines=Your+money%2C+smarter.;Track.+Save.+Grow." alt="Animated SpendWise AI tagline"/>
 
-<strong>Organize expenses and develop better money-management habits.</strong>
+<strong>A modern personal finance dashboard for smarter money management.</strong>
 
-A project focused on helping students organize and track their expenses.
+A finance application designed to help users track spending, manage budgets, set savings goals, and explore financial insights.
 
-<strong>Key Areas</strong>
+<strong>Key Features</strong>
 <ul>
-<li>Expense recording</li>
-<li>Spending organization</li>
-<li>Transaction management</li>
-<li>Expense tracking</li>
-<li>Personal finance awareness</li>
+<li>Expense and transaction tracking</li>
+<li>Budget management</li>
+<li>Personal savings goals</li>
+<li>Financial insights dashboard</li>
+<li>Organized personal finance overview</li>
 </ul>
 
-<img src="https://img.shields.io/badge/Python-161B22?style=flat&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/Finance-161B22?style=flat&logo=googleanalytics&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/React-161B22?style=flat&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vite-161B22?style=flat&logo=vite&logoColor=646CFF"/>
+<img src="https://img.shields.io/badge/JavaScript-161B22?style=flat&logo=javascript&logoColor=F7DF1E"/>
 
 <br/><br/>
 
-<a href="https://github.com/ballsohini939-alt/Student-Expense-Tracker">↗ View Source Code</a>
+<a href="https://github.com/ballsohini939-alt/SpendWise-AI">↗ View Source Code</a>
 
 </td>
 </tr>
@@ -265,6 +269,7 @@ A project focused on helping students organize and track their expenses.
 </div>
 
 ---
+
 
 
 

@@ -137,20 +137,22 @@ My approach to development is simple: **learn by building**. I like experimentin
 ## 🚀 Featured Projects
 
 <div align="center">
-  <p><sub>SELECTED BUILDS · PROJECTS · PRACTICAL APPLICATIONS</sub></p>
-</div>
 
-<table width="100%">
+<p><sub>SELECTED BUILDS · PROJECTS · PRACTICAL APPLICATIONS</sub></p>
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
 <h3>🎓 CampusCompanion AI</h3>
 
-<b>A unified workspace for student learning, opportunities, and career preparation.</b>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=900&color=A78BFA&width=300&lines=Your+goals.+Your+opportunities.;Your+next+step." alt="Animated CampusCompanion tagline"/>
+
+<strong>A unified workspace for student learning, opportunities, and career preparation.</strong>
 
 A student-focused dashboard combining scholarship discovery, study planning, and career guidance.
 
-<b>Key Features</b>
+<strong>Key Features</strong>
 <ul>
 <li>Student guidance assistant</li>
 <li>Scholarship discovery and filtering</li>
@@ -159,14 +161,13 @@ A student-focused dashboard combining scholarship discovery, study planning, and
 <li>Career preparation guidance</li>
 </ul>
 
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
+<img src="https://img.shields.io/badge/React-161B22?style=flat&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vite-161B22?style=flat&logo=vite&logoColor=646CFF"/>
+<img src="https://img.shields.io/badge/JavaScript-161B22?style=flat&logo=javascript&logoColor=F7DF1E"/>
 
-<a href="https://github.com/ballsohini939-alt/campuscompanion-ai">↗ View Source Code</a>
-&nbsp;·&nbsp;
+<br/><br/>
+
+<a href="https://github.com/ballsohini939-alt/campuscompanion-ai">↗ View Source Code</a> ·
 <a href="https://campuscompanion-ai.vercel.app/">↗ Live Demo</a>
 
 </td>
@@ -174,11 +175,13 @@ A student-focused dashboard combining scholarship discovery, study planning, and
 
 <h3>🤖 AI Project Mentor</h3>
 
-<b>Turn project ideas into structured development plans.</b>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=900&color=14B8A6&width=300&lines=From+ideas+to+execution.;Plan.+Build.+Improve." alt="Animated AI Project Mentor tagline"/>
+
+<strong>Turn project ideas into structured development plans.</strong>
 
 A project-planning application that helps users organize ideas into development blueprints and structured workflows.
 
-<b>Key Features</b>
+<strong>Key Features</strong>
 <ul>
 <li>Project blueprint generation</li>
 <li>Structured development roadmaps</li>
@@ -187,40 +190,44 @@ A project-planning application that helps users organize ideas into development 
 <li>Progress tracking and local persistence</li>
 </ul>
 
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/React-161B22?style=flat&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vite-161B22?style=flat&logo=vite&logoColor=646CFF"/>
+<img src="https://img.shields.io/badge/Node.js-161B22?style=flat&logo=nodedotjs&logoColor=5FA04E"/>
+<img src="https://img.shields.io/badge/Express-161B22?style=flat&logo=express&logoColor=FFFFFF"/>
 
-<a href="https://github.com/ballsohini939-alt/ai-project-mentor">↗ View Source Code</a>
+<br/><br/>
+
+<a href="https://github.com/ballsohini939-alt/ai-project-mentor">↗ View Source Code</a> ·
+<a href="https://devpost.com/software/ai-project-mentor">↗ View on Devpost</a>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 <h3>📊 Student Performance Analyzer</h3>
 
-<b>Turn academic records into meaningful insights.</b>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=900&color=A78BFA&width=300&lines=Explore+student+performance.;Turn+data+into+insights." alt="Animated Student Performance Analyzer tagline"/>
 
-A Python-based data analysis project for examining student performance and identifying patterns in academic results.
+<strong>Explore student performance through Python-based data analysis.</strong>
 
-<b>Key Features</b>
+A project focused on data processing, analysis, and meaningful academic insights.
+
+<strong>Key Areas</strong>
 <ul>
-<li>Marks, percentages, and grade calculations</li>
-<li>Student ranking and grade distribution</li>
-<li>Subject-wise performance analysis</li>
-<li>Study-hour and correlation analysis</li>
-<li>PDF report generation</li>
+<li>CSV data handling</li>
+<li>Data cleaning and analysis</li>
+<li>Performance summaries</li>
+<li>Data visualization</li>
+<li>Report generation</li>
 </ul>
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
-</p>
+<img src="https://img.shields.io/badge/Python-161B22?style=flat&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Pandas-161B22?style=flat&logo=pandas&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Matplotlib-161B22?style=flat&logo=python&logoColor=14B8A6"/>
+
+<br/><br/>
 
 <a href="https://github.com/ballsohini939-alt/student-performance-analyzer">↗ View Source Code</a>
 
@@ -229,23 +236,25 @@ A Python-based data analysis project for examining student performance and ident
 
 <h3>💰 Student Expense Tracker</h3>
 
-<b>A simple way to organize personal spending.</b>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=900&color=14B8A6&width=300&lines=Track+spending+smarter.;Build+better+money+habits." alt="Animated Student Expense Tracker tagline"/>
 
-A command-line application for recording expenses and managing structured financial data.
+<strong>Organize expenses and develop better money-management habits.</strong>
 
-<b>Key Features</b>
+A project focused on helping students organize and track their expenses.
+
+<strong>Key Areas</strong>
 <ul>
-<li>Record individual expenses</li>
-<li>Store and retrieve expense data</li>
-<li>Organize spending information</li>
-<li>Practise file handling and data management</li>
+<li>Expense recording</li>
+<li>Spending organization</li>
+<li>Transaction management</li>
+<li>Expense tracking</li>
+<li>Personal finance awareness</li>
 </ul>
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSV%20Data-477A59?style=flat-square"/>
-<img src="https://img.shields.io/badge/File%20Handling-8B5CF6?style=flat-square"/>
-</p>
+<img src="https://img.shields.io/badge/Python-161B22?style=flat&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Finance-161B22?style=flat&logo=googleanalytics&logoColor=A78BFA"/>
+
+<br/><br/>
 
 <a href="https://github.com/ballsohini939-alt/Student-Expense-Tracker">↗ View Source Code</a>
 
@@ -253,11 +262,11 @@ A command-line application for recording expenses and managing structured financ
 </tr>
 </table>
 
-<div align="center">
-  <p><sub>MORE PROJECTS · MORE EXPERIMENTS · ALWAYS BUILDING</sub></p>
 </div>
 
 ---
+
+
 
 
 ## 💻 C Programming Portfolio
@@ -391,82 +400,98 @@ A command-line application for recording expenses and managing structured financ
 ---
 
 
-
-## 🏆 Hackathons & Practical Experience
+## 🏆 Hackathons & Building Experiences
 
 <div align="center">
-  <sub>HACKATHONS · BUILDING · EXPERIMENTING · LEARNING</sub>
-  <p>Applying software development skills to practical challenges and project ideas.</p>
-</div>
 
-<table width="100%">
+<p><sub>HACKATHONS · BUILDING · EXPERIMENTING · LEARNING</sub></p>
+
+<p>Applying software development skills to practical challenges and project ideas.</p>
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
 <h3>🚀 Amazon Developer Hackathon 2026</h3>
 
-<b>Project: CampusCompanion AI</b>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=800&color=A78BFA&width=300&lines=Building+for+student+impact.;Ideas+into+real+solutions." alt="Animated CampusCompanion hackathon tagline"/>
 
-Developed a student-support web application that combines educational opportunity discovery, study planning, and career preparation in one workspace.
+<h3>Project: CampusCompanion AI</h3>
 
-<b>What I worked on</b>
+A student-support web application combining educational opportunity discovery, study planning, and career preparation in one workspace.
 
-- React-based application development
-- Responsive user interface design
-- Scholarship search and filtering
-- Browser local storage
-- Student-focused application workflows
-- Git and GitHub project management
+<strong>✦ What I Worked On</strong>
 
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-</p>
+<ul>
+<li>React-based application development</li>
+<li>Responsive user interface design</li>
+<li>Scholarship search and filtering</li>
+<li>Browser local storage</li>
+<li>Student-focused application workflows</li>
+<li>Git and GitHub project management</li>
+</ul>
+
+<img src="https://img.shields.io/badge/React-161B22?style=flat&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-161B22?style=flat&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Vercel-161B22?style=flat&logo=vercel&logoColor=FFFFFF"/>
+
+<br/><br/>
 
 <a href="https://github.com/ballsohini939-alt/campuscompanion-ai">↗ Project Repository</a>
+
 <br/>
+
 <a href="https://campuscompanion-ai.vercel.app/">↗ Live Demo</a>
-<br/>
-<a href="https://amazonappdev2026.devpost.com/">↗ Hackathon Page</a>
 
 </td>
+
 <td width="50%" valign="top">
 
 <h3>💡 Impact Forge Summer 2026</h3>
 
-<b>Project: AI Project Mentor</b>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=800&color=14B8A6&width=300&lines=From+ideas+to+execution.;Plan.+Build.+Improve." alt="Animated AI Project Mentor hackathon tagline"/>
+
+<h3>Project: AI Project Mentor</h3>
 
 Participated as a solo builder and developed a project-planning application designed to turn ideas into structured development plans.
 
-<b>What I worked on</b>
+<strong>✦ What I Worked On</strong>
 
-- React application development
-- Frontend and backend integration
-- Project blueprint workflows
-- Structured development roadmaps
-- Contextual project guidance
-- Debugging and time management
+<ul>
+<li>React application development</li>
+<li>Frontend and backend integration</li>
+<li>Project blueprint workflows</li>
+<li>Structured development roadmaps</li>
+<li>Contextual project guidance</li>
+<li>Debugging and time management</li>
+</ul>
 
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/React-161B22?style=flat&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-161B22?style=flat&logo=nodedotjs&logoColor=5FA04E"/>
+<img src="https://img.shields.io/badge/Express-161B22?style=flat&logo=express&logoColor=FFFFFF"/>
+
+<br/><br/>
 
 <a href="https://github.com/ballsohini939-alt/ai-project-mentor">↗ Project Repository</a>
+
 <br/>
+
 <a href="https://devpost.com/software/ai-project-mentor">↗ Project Showcase</a>
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-  <p><sub>IDEA → DEVELOPMENT → TESTING → IMPROVEMENT</sub></p>
+<br/>
+
+<strong>BUILD · EXPERIMENT · LEARN · REPEAT</strong>
+
 </div>
 
 ---
+
+
+
 
 
 ## 📚 Currently Learning

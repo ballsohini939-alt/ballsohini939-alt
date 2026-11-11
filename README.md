@@ -26,73 +26,198 @@
 
 ---
 
+<!-- ═══════ DEVELOPER PROFILE ═══════ -->
+
 <div align="center">
 
-  <h3>⌘ DEVELOPER_PROFILE.exe</h3>
-  <sub>DEVELOPER CONFIGURATION · SYSTEM INFORMATION</sub>
+<h2>⌘ DEVELOPER_PROFILE.exe</h2>
 
-  <table width="100%">
-    <tr>
-      <td align="center" width="33%">
-        <b>01 · IDENTITY</b><br/><br/>
-        Sohini Ball
-      </td>
-      <td align="center" width="33%">
-        <b>02 · EDUCATION</b><br/><br/>
-        B.Tech CSE
-      </td>
-      <td align="center" width="33%">
-        <b>03 · ACADEMICS</b><br/><br/>
-        8.53 / 10
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <b>04 · LANGUAGES</b><br/><br/>
-        Python · C · JavaScript
-      </td>
-      <td align="center">
-        <b>05 · FRONTEND</b><br/><br/>
-        HTML · CSS · React · Vite
-      </td>
-      <td align="center">
-        <b>06 · BACKEND</b><br/><br/>
-        Node.js · Express
-      </td>
-    </tr>
-  </table>
+<sub>PERSONAL DEVELOPER DASHBOARD · SYSTEM v2.1</sub>
 
-  <p><b>▸ CURRENT MISSION</b></p>
-  <p>
-    Building practical projects · Exploring AI & Data Science<br/>
-    Improving problem-solving · Preparing for internships
-  </p>
+<br/><br/>
 
-  <p><sub>● SYSTEM STATUS: LEARNING · BUILDING · IMPROVING</sub></p>
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-14B8A6?style=flat-square"/>
+<img src="https://img.shields.io/badge/PROFILE-SOHINI_BALL-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/MODE-BUILDING-2563EB?style=flat-square"/>
 
 </div>
+
+<br/>
+
+<table align="center" width="100%">
+<tr>
+<td align="center" width="33%" bgcolor="#171D2B">
+
+<sub>01 / IDENTITY</sub>
+<br/><br/>
+<h3>👩‍💻 Sohini Ball</h3>
+<sub>DEVELOPER</sub>
+
+</td>
+<td align="center" width="33%" bgcolor="#171D2B">
+
+<sub>02 / EDUCATION</sub>
+<br/><br/>
+<h3>🎓 B.Tech CSE</h3>
+<sub>ASANSOL ENGINEERING COLLEGE</sub>
+
+</td>
+<td align="center" width="33%" bgcolor="#171D2B">
+
+<sub>03 / ACADEMICS</sub>
+<br/><br/>
+<h3>📊 8.53 / 10</h3>
+<sub>CGPA</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+<sub>04 / LANGUAGES</sub>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,c,js&theme=dark"/>
+<br/>
+<sub>PYTHON · C · JAVASCRIPT</sub>
+
+</td>
+<td align="center" width="33%">
+
+<sub>05 / FRONTEND</sub>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=dark"/>
+<br/>
+<sub>HTML · CSS · REACT · VITE</sub>
+
+</td>
+<td align="center" width="33%">
+
+<sub>06 / BACKEND</sub>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
+<br/>
+<sub>NODE.JS · EXPRESS</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<h3>🎯 CURRENT MISSION</h3>
+
+<img src="https://img.shields.io/badge/OBJECTIVE-BUILDING_&_GROWING-8B5CF6?style=for-the-badge"/>
+
+</div>
+
+<table align="center" width="100%">
+<tr>
+<td align="center" width="50%" bgcolor="#171D2B">
+
+🚀 **BUILD**
+
+Practical Software Projects
+
+</td>
+<td align="center" width="50%" bgcolor="#171D2B">
+
+🧠 **EXPLORE**
+
+AI & Data Science
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" bgcolor="#171D2B">
+
+⚡ **IMPROVE**
+
+Problem Solving & DSA
+
+</td>
+<td align="center" width="50%" bgcolor="#171D2B">
+
+💼 **PREPARE**
+
+Software Engineering Internships
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LEARNING-DAILY-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/BUILDING-CONSISTENTLY-14B8A6?style=flat-square"/>
+<img src="https://img.shields.io/badge/IMPROVING-ALWAYS-2563EB?style=flat-square"/>
+
+<br/><br/>
+<sub>✦ LEARN THE LOGIC · BUILD THE SOLUTION · CREATE IMPACT ✦</sub>
+
+</div>
+
+<!-- ═══════ END DEVELOPER PROFILE ═══════ -->
+
 
 ---
 
 
+<!-- ABOUT ME · PREMIUM EDITION -->
 
-## 👩‍💻 About Me
+<h2 align="center">👩‍💻 About Me</h2>
 
-I enjoy turning ideas into practical software solutions and exploring how technology can solve everyday problems.
+<p align="center">
+  <img src="https://img.shields.io/badge/SOFTWARE_ENGINEERING-8B5CF6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-2563EB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DATA_SCIENCE-0D9488?style=flat-square"/>
+</p>
 
-My approach to development is simple: **learn by building**. I like experimenting with new tools, understanding how things work behind the scenes, and improving my projects through testing and iteration.
+<p align="center">
+  I'm <b>Sohini Ball</b>, a Computer Science & Engineering student
+  passionate about building practical software and exploring emerging technologies.
+</p>
 
-### 🔍 What Drives Me
+<p align="center">
+  I believe in learning by building — experimenting with technologies,
+  solving problems, and transforming ideas into useful applications.
+</p>
 
-- 🛠️ Creating useful applications with clean, maintainable code.
-- 💡 Exploring how AI can make software more helpful and accessible.
-- 📊 Understanding data and turning it into meaningful insights.
-- 🧩 Breaking complex problems into smaller, manageable solutions.
-- 🌱 Learning from challenges, feedback, and real-world development experiences.
+---
 
-### 💭 My Developer Philosophy
+<h3 align="center">✦ Areas of Interest</h3>
 
-> Don't just learn a technology. Understand it, build with it, and use it to solve a real problem.
+<p align="center">
+  <img src="https://img.shields.io/badge/01-BUILDING_USEFUL_SOFTWARE-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/02-EXPLORING_AI-2563EB?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/03-DATA_ANALYSIS-0D9488?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/04-PROBLEM_SOLVING-7C3AED?style=for-the-badge"/>
+</p>
+
+---
+
+<h3 align="center">💭 Developer Philosophy</h3>
+
+<p align="center">
+  <b>Understand the technology.</b>
+  <br/>
+  Build something meaningful.
+  <br/>
+  <b>Make every project solve a real problem.</b>
+</p>
+
+<p align="center">
+  <sub>LEARN &nbsp; ✦ &nbsp; BUILD &nbsp; ✦ &nbsp; EXPERIMENT &nbsp; ✦ &nbsp; IMPROVE</sub>
+</p>
+
+<!-- END ABOUT ME -->
+
 
 ---
 
